@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="camera_icon">Camera Icon</string>
+    <string name="clicked_image">Clicked Image</string>
+</resources>
